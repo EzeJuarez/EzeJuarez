@@ -1,4 +1,4 @@
-<img align="center" src="./HelloWorld.gif">
+<div align="center"><img src="./HelloWorld.gif"></div>
 <h1 align="center">Hi there, my name is Ezequiel Juarez 👋</h1>
 
 - 🔭 I’m currently working on Henry´s final project.

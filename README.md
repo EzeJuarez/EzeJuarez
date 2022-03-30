@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="./HelloWorld.gif">
+### Hi there, my name is Ezequiel Juarez 👋
 
 - 🔭 I’m currently working on Henry´s final project.
 - 📫 How to reach me:<br>

@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Henry´s final project.
 - 📫 How to reach me:<br>
 Mail: ezequieljuarez290@gmail.com<br>
-LinkedIn: <a href="https://www.linkedin.com/in/ezequiel-juarez"></<a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/ezequiel-juarez">Ezequiel Juarez profile</<a><br>
 WhatsApp: +54 9 1173650414
 - Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
